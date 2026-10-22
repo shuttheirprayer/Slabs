@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:basalt"
+    }
+  },
+  "result": {
+    "item": "slabs:basalt_slab",
+    "count": 6
+  }
+}

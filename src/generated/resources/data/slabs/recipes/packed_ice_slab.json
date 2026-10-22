@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "slabs:packed_ice_slab",
+    "count": 6
+  }
+}

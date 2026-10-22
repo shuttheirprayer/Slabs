@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "slabs:moss_slab",
+    "count": 6
+  }
+}

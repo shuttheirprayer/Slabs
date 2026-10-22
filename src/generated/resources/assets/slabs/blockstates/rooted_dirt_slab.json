@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "slabs:block/rooted_dirt_slab"
+      },
+      {
+        "model": "slabs:block/rooted_dirt_slab",
+        "y": 90
+      },
+      {
+        "model": "slabs:block/rooted_dirt_slab",
+        "y": 180
+      },
+      {
+        "model": "slabs:block/rooted_dirt_slab",
+        "y": 270
+      }
+    ],
+    "type=top": [
+      {
+        "model": "slabs:block/rooted_dirt_slab_top"
+      },
+      {
+        "model": "slabs:block/rooted_dirt_slab_top",
+        "y": 90
+      },
+      {
+        "model": "slabs:block/rooted_dirt_slab_top",
+        "y": 180
+      },
+      {
+        "model": "slabs:block/rooted_dirt_slab_top",
+        "y": 270
+      }
+    ],
+    "type=double": [
+      {
+        "model": "minecraft:block/rooted_dirt"
+      },
+      {
+        "model": "minecraft:block/rooted_dirt",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/rooted_dirt",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/rooted_dirt",
+        "y": 270
+      }
+    ]
+  }
+}

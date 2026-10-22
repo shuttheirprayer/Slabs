@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "slabs:packed_mud_slab",
+    "slabs:calcite_slab",
+    "slabs:tuff_slab",
+    "slabs:dripstone_slab",
+    "slabs:deepslate_slab",
+    "slabs:basalt_slab",
+    "slabs:smooth_basalt_slab",
+    "slabs:netherrack_slab",
+    "slabs:end_stone_slab",
+    "slabs:packed_ice_slab",
+    "slabs:blue_ice_slab",
+    "slabs:terracotta_slab",
+    "slabs:white_terracotta_slab",
+    "slabs:orange_terracotta_slab",
+    "slabs:magenta_terracotta_slab",
+    "slabs:light_blue_terracotta_slab",
+    "slabs:yellow_terracotta_slab",
+    "slabs:lime_terracotta_slab",
+    "slabs:pink_terracotta_slab",
+    "slabs:gray_terracotta_slab",
+    "slabs:light_gray_terracotta_slab",
+    "slabs:cyan_terracotta_slab",
+    "slabs:purple_terracotta_slab",
+    "slabs:blue_terracotta_slab",
+    "slabs:brown_terracotta_slab",
+    "slabs:green_terracotta_slab",
+    "slabs:red_terracotta_slab",
+    "slabs:black_terracotta_slab"
+  ]
+}

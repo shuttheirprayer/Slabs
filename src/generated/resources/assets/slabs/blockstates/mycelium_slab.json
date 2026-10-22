@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "type=bottom,snowy=false": [
+      {
+        "model": "slabs:block/mycelium_slab"
+      },
+      {
+        "model": "slabs:block/mycelium_slab",
+        "y": 90
+      },
+      {
+        "model": "slabs:block/mycelium_slab",
+        "y": 180
+      },
+      {
+        "model": "slabs:block/mycelium_slab",
+        "y": 270
+      }
+    ],
+    "type=top,snowy=false": [
+      {
+        "model": "slabs:block/mycelium_slab_top"
+      },
+      {
+        "model": "slabs:block/mycelium_slab_top",
+        "y": 90
+      },
+      {
+        "model": "slabs:block/mycelium_slab_top",
+        "y": 180
+      },
+      {
+        "model": "slabs:block/mycelium_slab_top",
+        "y": 270
+      }
+    ],
+    "type=double,snowy=false": [
+      {
+        "model": "minecraft:block/mycelium"
+      },
+      {
+        "model": "minecraft:block/mycelium",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/mycelium",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/mycelium",
+        "y": 270
+      }
+    ],
+    "type=bottom,snowy=true": [
+      {
+        "model": "slabs:block/mycelium_slab_snow"
+      },
+      {
+        "model": "slabs:block/mycelium_slab_snow",
+        "y": 90
+      },
+      {
+        "model": "slabs:block/mycelium_slab_snow",
+        "y": 180
+      },
+      {
+        "model": "slabs:block/mycelium_slab_snow",
+        "y": 270
+      }
+    ],
+    "type=top,snowy=true": [
+      {
+        "model": "slabs:block/mycelium_slab_snow_top"
+      },
+      {
+        "model": "slabs:block/mycelium_slab_snow_top",
+        "y": 90
+      },
+      {
+        "model": "slabs:block/mycelium_slab_snow_top",
+        "y": 180
+      },
+      {
+        "model": "slabs:block/mycelium_slab_snow_top",
+        "y": 270
+      }
+    ],
+    "type=double,snowy=true": [
+      {
+        "model": "minecraft:block/grass_block_snow"
+      }
+    ]
+  }
+}

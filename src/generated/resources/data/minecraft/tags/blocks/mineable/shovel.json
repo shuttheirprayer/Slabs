@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "slabs:grass_slab",
+    "slabs:podzol_slab",
+    "slabs:mycelium_slab",
+    "slabs:dirt_slab",
+    "slabs:coarse_dirt_slab",
+    "slabs:rooted_dirt_slab",
+    "slabs:mud_slab",
+    "slabs:clay_slab",
+    "slabs:sand_slab",
+    "slabs:red_sand_slab",
+    "slabs:gravel_slab",
+    "slabs:soul_sand_slab",
+    "slabs:soul_soil_slab"
+  ]
+}

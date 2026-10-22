@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "slabs:block/pink_terracotta_slab"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "slabs:block/pink_terracotta_slab_top"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "minecraft:block/pink_terracotta"
+      }
+    ]
+  }
+}
