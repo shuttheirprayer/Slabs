@@ -33,4 +33,4 @@ curseforge/
 gradlew
 gradlew.bat
 libs/
-toolsgit rm -r --cached
+tools/
